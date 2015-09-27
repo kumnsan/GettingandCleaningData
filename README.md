@@ -17,4 +17,3 @@ This project is for the Getting and Cleaning Data course. The run_analysis.R scr
 7.Creates a tidy dataset that consists of the average value of each variable for each subject
 
 8.The end result is shown in the file  tidy.txt
-
